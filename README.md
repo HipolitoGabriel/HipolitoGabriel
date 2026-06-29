@@ -1,14 +1,28 @@
-# Olá, eu sou o [Gabriel Hipólito]! 👋
+# Olá! 👋 Eu sou Gabriel Hipólito
 
-### 🚀 Desenvolvedor [Sua Especialidade: ex: Full Stack / Front-End / Mobile / Data Scientist]
+🎓 Estudante de **Informática** no **IFRN**.
 
-Estou sempre em busca de aprender novas tecnologias e resolver problemas reais através do código. Atualmente, estou focado em aprimorar minhas habilidades em **[Tecnologia que está estudando agora, ex: React, Node.js, Python]**.
+Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas. Tenho interesse em diversas áreas da programação, especialmente no desenvolvimento de soluções que unem software e hardware.
 
----
+## 🚀 Áreas de Interesse
 
-### 🛠️ Minhas Habilidades & Tecnologias
+* 🌐 Desenvolvimento Web
+* 🤖 Automação
+* ⚡ Eletrônica
+* 🔌 Arduino
+* 🖥️ Microcontroladores
+* 📱 Programação e tecnologia
 
-Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
+Embora eu também goste de desenvolvimento web, meu maior interesse está em projetos envolvendo eletrônica, sistemas embarcados e automação.
+
+## 💻 Tecnologias que estudo
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* C/C++
+* Arduino
 
 #### **Front-End**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,25 +41,24 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🎯 Objetivos
 
-Abaixo estão algumas métricas sobre o meu perfil e repositórios:
+* Aprimorar meus conhecimentos em desenvolvimento de software.
+* Desenvolver projetos com Arduino e microcontroladores.
+* Aprender mais sobre sistemas embarcados e Internet das Coisas (IoT).
+* Compartilhar projetos e acompanhar minha evolução através do GitHub.
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&langs_count=7&theme=radical"/>
-</p>
+## 📫 Contato
 
----
+Sinta-se à vontade para acompanhar meus projetos e contribuir com sugestões!
+
 
 ### 📫 Vamos nos conectar?
 
 Se você quiser conversar sobre tecnologia, projetos ou apenas trocar uma ideia, fique à vontade para me chamar:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://seusite.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hipolitogabriel132@gmail.com)
 
 ---
 
-⭐ _"O único modo de fazer um excelente trabalho é amar o que você faz." – Steve Jobs_
