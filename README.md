@@ -50,7 +50,7 @@ Sinta-se à vontade para acompanhar meus projetos e contribuir com sugestões!
 
 Se você quiser conversar sobre tecnologia, projetos ou apenas trocar uma ideia, fique à vontade para me chamar:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-hipolito)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/gabriel-hipolito-b60b35383/utm](https://www.linkedin.com/in/gabriel-hipolito-b60b35383?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hipolitogabriel132@gmail.com)
 
 ---
